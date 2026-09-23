@@ -10,7 +10,10 @@
 
 ᅟ
 
+ᅟ
+
 <div align="left">
- <img width="210" src="https://readme-typing-svg.herokuapp.com/?font=Lavishly+Yours&size=90&duration=1&repeat=false&color=dbad58&center=true&vCenter=true&width=200&height=120&lines=Kade."/>
+ <img width="280" src="https://readme-typing-svg.herokuapp.com/?font=Lavishly+Yours&size=90&duration=1&repeat=false&color=d0dfb5&center=true&vCenter=true&width=230&height=120&lines=Kaden."/>
 </div>
-he/him + iwec always 
+
+<img width="210" src="https://readme-typing-svg.herokuapp.com/?font=Yuyu+Short&size=90&duration=1&repeat=false&color=c86363&center=true&vCenter=true&width=400&height=115&lines=he/him"/><img width="210" src="https://readme-typing-svg.herokuapp.com/?font=Yuyu+Short&size=90&duration=1&repeat=false&color=699f75&center=true&vCenter=true&width=400&height=120&lines=IWEC+always"/>
